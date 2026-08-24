@@ -45,11 +45,7 @@ function AppContent() {
           />
         )}
 
-        {activeTab === 'bullet-scorer' && (
-          <BulletScorerView
-            onNavigateToBuilder={() => setActiveTab('resume-builder')}
-          />
-        )}
+        
 
         {activeTab === 'resume-builder' && (
           <ResumeBuilderView />
