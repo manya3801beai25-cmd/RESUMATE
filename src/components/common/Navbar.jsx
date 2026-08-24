@@ -24,7 +24,7 @@ export default function Navbar({ activeTab, onTabChange }) {
   const navItems = [
     { id: 'landing', label: 'Home', icon: Compass },
     { id: 'ats-scanner', label: 'ATS Scanner', icon: FileSearch, highlight: true },
-    { id: 'bullet-scorer', label: 'XYZ Bullet Scorer', icon: Sparkles },
+    
     { id: 'resume-builder', label: 'Resume Builder', icon: FileText },
     { id: 'cover-letter', label: 'Cover Letter', icon: Mail },
     { id: 'mock-interview', label: 'AI Mock Interview', icon: Mic2 },
