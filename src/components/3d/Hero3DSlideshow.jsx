@@ -33,15 +33,7 @@ export default function Hero3DSlideshow({ onNavigateToScanner, onNavigateToBuild
       previewText: 'Alex Rivera • Senior Full Stack Engineer (React, TypeScript, AWS, Node.js)',
       accent: 'border-cyan-500/40 shadow-glow-cyan'
     },
-    {
-      title: 'Google XYZ Bullet Scorer',
-      badge: 'Formula: X + Y + Z',
-      badgeColor: 'text-violet-400 bg-violet-500/10 border-violet-500/30',
-      tagline: 'Accomplished [X] as measured by [Y], by doing [Z]',
-      features: ['Flags passive verbs & duty phrasing', '3 AI high-impact rewrite suggestions', 'Metric & percentage booster'],
-      previewText: 'Architected responsive frontend, boosting conversion by 38% and saving $180k.',
-      accent: 'border-violet-500/40 shadow-glow-violet'
-    },
+    
     {
       title: 'AI Mock Interview Simulator',
       badge: 'STAR Methodology',
