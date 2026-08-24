@@ -9,7 +9,7 @@ import AuthModal from './components/common/AuthModal';
 
 import LandingPageView from './components/views/LandingPageView';
 import AtsScannerView from './components/views/AtsScannerView';
-import BulletScorerView from './components/views/BulletScorerView';
+
 import ResumeBuilderView from './components/views/ResumeBuilderView';
 import CoverLetterView from './components/views/CoverLetterView';
 import MockInterviewView from './components/views/MockInterviewView';
